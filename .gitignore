@@ -7,3 +7,4 @@ backend/.env
 frontend/.env
 .DS_Store
 Acct Statement_6884_12042026_23.50.29.csv
+ backend/finance_tracker.db
