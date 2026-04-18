@@ -1,0 +1,14 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+python-multipart==0.0.20
+pandas==2.3.1
+openpyxl==3.1.5
+numpy==2.3.2
+scikit-learn==1.7.1
+SQLAlchemy==2.0.44
+pydantic-settings==2.10.1
+cryptography==45.0.6
+python-dateutil==2.9.0.post0
+reportlab==4.4.3
+xlsxwriter==3.2.5
+openai==1.102.0
